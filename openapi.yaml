@@ -22,10 +22,10 @@ info:
     url: https://swifttdial.com/contact-us/
     email: tech@swifttdial.com
   x-logo:
-    url: https://app.sms.swifttdial.com/assets/logo.png
+    url: https://sms.swifttdial.com/img/logo.f40e6266.png
   license:
-    name: Apache 2.0
-    url: 'https://app.sms.swifttdial.com'
+    name: swiftt Dial
+    url: 'https://swifttdial.com'
   servers:
   - url: https://bulkdev.swifttdial.com:2778
     description: Sandbox server
