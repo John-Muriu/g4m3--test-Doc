@@ -1,8 +1,3 @@
-# OpenAPI Definition Starter
-
-## How to use this starter
-
-![Click use template button](https://user-images.githubusercontent.com/3975738/92927304-12e35d80-f446-11ea-9bd3-a0f8a69792d0.png)
 
 ## Working on your OpenAPI Definition
 
@@ -37,7 +32,6 @@ adjust the file/folder organization.
 The `.redocly.yaml` controls settings for various
 tools including the lint tool and the reference
 docs engine.  Open it to find examples and
-[read the docs](https://redoc.ly/docs/cli/configuration/)
 for more information.
 
 
